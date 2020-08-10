@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "ダニング＝クルーガー曲線<br>完全に理解した＜何も分からん＜ﾁｮｯﾄﾜｶﾙ"
 
 # Showcase personal skills or business features.
 # 
@@ -15,22 +15,58 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "html5"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "HTML"
+  description = "ﾁｮｯﾄﾜｶﾙ"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS/SCSS"
+  description = "ﾁｮｯﾄﾜｶﾙ"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript/jQuery"
+  description = "何も分からん"
+
+[[feature]]
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Node.js"
+  description = "完全に理解した"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python3/Flask"
+  description = "完全に理解した"
+
+[[feature]]
+  icon = "wordpress"
+  icon_pack = "fab"
+  name = "WordPress"
+  description = "何も分からん"
+
+[[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MySQL"
+  description = "完全に理解した"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git/Sourcetree"
+  description = "何も分からん"
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Photoshop/Illustrator/XD"
+  description = "なんも分からん"
 
 # Uncomment to use emoji icons.
 # [[feature]]
