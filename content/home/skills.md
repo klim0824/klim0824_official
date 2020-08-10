@@ -33,6 +33,12 @@ subtitle = "ダニング＝クルーガー曲線<br>完全に理解した＜何�
   description = "何も分からん"
 
 [[feature]]
+  icon = "vuejs"
+  icon_pack = "fab"
+  name = "Vue.js"
+  description = "完全に理解した"
+
+[[feature]]
   icon = "node-js"
   icon_pack = "fab"
   name = "Node.js"
@@ -57,17 +63,64 @@ subtitle = "ダニング＝クルーガー曲線<br>完全に理解した＜何�
   description = "完全に理解した"
 
 [[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Photoshop/Illustrator/XD"
+  description = "何も分からん"
+
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows10"
+  description = "ﾁｮｯﾄﾜｶﾙ"
+
+[[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "macOS"
+  description = "ﾁｮｯﾄﾜｶﾙ"
+
+[[feature]]
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Linux/Ubuntu"
+  description = "何も分からん"
+
+[[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Git/Sourcetree"
   description = "何も分からん"
 
 [[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Photoshop/Illustrator/XD"
-  description = "なんも分からん"
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Bash/Zsh"
+  description = "完全に理解した"
 
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "完全に理解した"
+
+[[feature]]
+  icon = "universal-access"
+  icon_pack = "fas"
+  name = "Accessibility"
+  description = "何も分からん"
+
+[[feature]]
+  icon = "user-lock"
+  icon_pack = "fas"
+  name = "Security"
+  description = "完全に理解した"
+
+[[feature]]
+  icon = "tachometer-alt"
+  icon_pack = "fas"
+  name = "Performance"
+  description = "完全に理解した"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
