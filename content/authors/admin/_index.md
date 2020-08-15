@@ -47,13 +47,13 @@ social:
   link: 'mailto:klim0824@live.jp'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/klim08241
+  link: https://twitter.com/klim0824/
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/klim0824
+  link: https://facebook.com/klim0824/
 - icon: github
   icon_pack: fab
-  link: https://github.com/klim0824
+  link: https://github.com/klim0824/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/klim0824/
