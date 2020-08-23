@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* PERSONAL */
+Name: klim0824
+Mail: klim0824@live.jp
+Twitter: https://twitter.com/klim0824
+Facebook: https://facebook.com/klim0824/
+Github: https://github.com/klim0824/
+Instagram: https://www.instagram.com/klim0824/
+Location: Japan
+Job: Frontend Engineer Wannabe
+Interested in: Accessibility, Information Architecture, Semantics, Machine Readable, Security, Linguistics, Sociology, and Respect for diversity
+Like: Musics, Movies, Anime, Manga, and Games
+Love: World Wide Web
+
+/* SITE */
+URL: https://www.klim0824.dev/
+Standards: HTML5, CSS3, JavaScript
+Language: ja-JP
+Timezone: JST
+Release Date : 2020/08/11
