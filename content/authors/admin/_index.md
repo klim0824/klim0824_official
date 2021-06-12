@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: rss-square
-  icon_pack: fas
-  link: https://blog.klim0824.dev/
+# - icon: rss-square
+#   icon_pack: fas
+#   link: https://blog.klim0824.dev/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:klim0824@live.jp'  # For a direct email link, use "mailto:test@example.org".

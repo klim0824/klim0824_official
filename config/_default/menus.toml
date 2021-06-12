@@ -8,10 +8,10 @@
   url = "/"
   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "https://blog.klim0824.dev/"
-  weight = 20
+# [[main]]
+#   name = "Blog"
+#   url = "https://blog.klim0824.dev/"
+#   weight = 20
 
 [[main]]
   name = "Twitter"
