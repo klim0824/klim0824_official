@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "関東のWeb制作会社"
+  company = ""
+  company_url = ""
+  location = "関東"
+  date_start = "2022-04-01"
+  date_end = ""
+  description = """
+  フロントエンドエンジニアとして武者修行中。
+  """
+
+[[experience]]
   title = "関東の会社のウェブ担当"
   company = ""
   company_url = ""
   location = "関東"
   date_start = "2019-01-01"
-  date_end = ""
+  date_end = "2022-01-01"
   description = """
   自称フルスタックエンジニア兼なんかパソコンに詳しい人にジョブチェンジ。
   
